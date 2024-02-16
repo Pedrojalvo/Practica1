@@ -1,5 +1,4 @@
 package mates;
-import java.util.Random;
 
 public class Matematicas {
     public static double generarNumeroPiIterativo(long pasos) {
