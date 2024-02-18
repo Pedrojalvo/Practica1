@@ -1,1 +1,2 @@
 # Practica1
+Este código genera un número iteraciones de puntos aleatorios en un cuadrado de lado 1x1 y cuenta cuántos de esos puntos caen dentro del círculo de radio 1 inscrito en ese cuadrado. Luego, la aproximación de pi se calcula como la proporción de puntos dentro del círculo multiplicada por 4, ya que el área del círculo es pi. Cuantas más iteraciones se realicen, más precisa será la aproximación.
